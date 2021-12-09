@@ -1,7 +1,7 @@
 ### Hi, This is conquerorLei's Github Profile 👋
 #### [LeetCode](https://leetcode-cn.com/u/li-qing-shan-b/)
-[LeetCode Name](https://leetcode-badge.haozibi.dev/v1/li-qing-shan-b.svg)[Solved Num](https://leetcode-badge.haozibi.dev/v1/solved/li-qing-shan-b.svg)[Solved Rate](https://leetcode-badge.haozibi.dev/v1/solved-rate/li-qing-shan-b.svg)[Accept Num](https://leetcode-badge.haozibi.dev/v1/accepted/li-qing-shan-b.svg)[Accept Rate](https://leetcode-badge.haozibi.dev/v1/accepted-rate/li-qing-shan-b.svg)
-[My Record](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/li-qing-shan-b.svg)
+![LeetCode Name](https://leetcode-badge.haozibi.dev/v1/li-qing-shan-b.svg)![Solved Num](https://leetcode-badge.haozibi.dev/v1/solved/li-qing-shan-b.svg)![Solved Rate](https://leetcode-badge.haozibi.dev/v1/solved-rate/li-qing-shan-b.svg)![Accept Num](https://leetcode-badge.haozibi.dev/v1/accepted/li-qing-shan-b.svg)![Accept Rate](https://leetcode-badge.haozibi.dev/v1/accepted-rate/li-qing-shan-b.svg)
+![My Record](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/li-qing-shan-b.svg)
 <!--
 **conquerorLei/conquerorLei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
